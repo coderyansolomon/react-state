@@ -13,7 +13,7 @@ export default function ReactState() {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-800 to-gray-900 text-white flex flex-col items-center justify-center p-8">
-      <h1 className="text-5xl font-bold mb-12">Why React State is Important</h1>
+      <h1 className="text-5xl font-bold mb-12">How Does State Really Work?</h1>
       
       <button
         onClick={handleIncrement}
